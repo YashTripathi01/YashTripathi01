@@ -16,10 +16,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YashTripathi01&theme=dark&hide_border=true&include_all_commits=true&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=YashTripathi01&theme=dark&hide_border=true&hide_current_streak=true)
+![](https://github-readme-stats.vercel.app/api?username=YashTripathi01&theme=dark&hide_border=true&include_all_commits=true&count_private=false&card_width=400) ![](https://nirzak-streak-stats.vercel.app/?user=YashTripathi01&theme=dark&hide_border=true&hide_current_streak=true&card_width=400)
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&card_width=900)
 
 ---
